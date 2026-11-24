@@ -5,33 +5,33 @@ Origin: FellowshipOS
 Label: FellowshipOS
 Suite: trixie
 Codename: trixie
-Version: 0.5.0
-Date: Tue, 24 Nov 2026 15:09:34 GMT
+Version: 0.5.1
+Date: Tue, 24 Nov 2026 15:51:59 GMT
 Architectures: amd64
 Components: main
 Description: FellowshipOS Desktop updates for Debian trixie
 MD5Sum:
- 2ea8be53e9041ecea84e3dc61eca34f3             6846 main/binary-amd64/Packages
- f073ea450d85d7121454ae1c4d1e5f3d             1355 main/binary-amd64/Packages.gz
+ 815ae62cc08ec29244a5cbb8e4f8a6bd             8134 main/binary-amd64/Packages
+ 6cb13779340396b403bfd685d1d12bfb             1501 main/binary-amd64/Packages.gz
 SHA256:
- 53a8fcb9eb568c1084c4c594b99e6b9df6318805c1aa091a12ccdedc1602a10e             6846 main/binary-amd64/Packages
- a668741b0011f20768cf5233903e71aef9fafe532ca6c9742902f39e20d8feed             1355 main/binary-amd64/Packages.gz
+ 7d1de1813c42ceba3a697eb9ce423ea5a8b474d8382915bc3cb21c75e548b244             8134 main/binary-amd64/Packages
+ bd0cec9ecc834a9ba9ffe15bd2fda1c89cbd81badf5cd1c4f10d7aa6b707f8e7             1501 main/binary-amd64/Packages.gz
 SHA512:
- 8dbe05f3e0bf72ebe0135e983ee0d4fd0638c6b256c017729258cc1163d962727b2cd1e2aae448487c79a9edd0c9cac9b8958ce161a723dca53f6b76f29f10e3             6846 main/binary-amd64/Packages
- 0931646f78d2cb30b7b28d23bbd98251be1fc96095c4a7acbe489c86e8d3e40bef32be25b87ceb1733675848aa59ed02a9c3d651608a699bc1119488abbb6709             1355 main/binary-amd64/Packages.gz
+ a930f67385e2b00eee722bb026bfd6a536056b5a546602bfb85a9ea378538d57b15abaa94073857a49bd95e767a6bb716e6ff56f1e5da11060f436b3b528fb4f             8134 main/binary-amd64/Packages
+ f26ee1bc3375cb8077c11a6bdb5f568397aef9877249d3e4d6a81a760c750f3750d3c8f62ec801bcce2c32cc22c75cfbdba1d510839f885d0acce66ca419ceeb             1501 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEmpBVhC3gQi0Nm3r9c9Rsn2gLtxUFAmsFqK4ACgkQc9Rsn2gL
-txUKTw/7BzQeNSEg19AdROYPW94rqkzs6gJFWV9ARRelrsTPEz5g3SuMUsoQtEaw
-82Q/g68GoaWvHPq7lABxzoX7K7PYM9NUevDE1baLn9u1mUyD+lUSdX1DvFMSpaTv
-t7b5Oyplbz5CdBnDqPkkEYYIV68gSaHHT28hbS5tqXbXy45dglaKFduLsA3KwJqO
-a6eXCxmpGA7NPCrTnYsYh8TNejAwNDyiiPFhe+17/7jYfSNF0BNiN0T/mjwXrbF2
-Tr22do44A2GBZdGkPMfwAf2W1/vKFws1v3NDXH5a7+GqlbKKSBeabJWjVIYe2ip9
-CbC/PC7y/1TNpp86BEfw3cYKwzZY3k2qd1zfb+pyOLc/B9xdqV/7jvKdM5SUBhXi
-hRTBfbvS6FdW/mqbemVCq0+zsmphpN4ZLBtwZAov4kB5ij9HRSv9SG+urz4A1fRA
-YFcFBOZWQDzsTghRox4c5+hKthOYQZdpQ+8l+cRr5bIkxUtWflFhBvjUcUSseaJW
-Cb51rvHPpEe6j+9B/Q1m5Q5tK6gCIW4uWMyktoy+s6ueuaew+2cHkqm/7wtW3NEH
-WfYdnMOSuyOwYAVKxHUaljdpab+OFYwX+Cd9gHZ8/AHyAY5AT2/04bYbRnXPhQdU
-7PA3qWM2p+DHC59DqVFV/WZWCUpp3k+ZfIJfGGyhgOr9dvHQEbo=
-=Xfa+
+iQIzBAEBCgAdFiEEmpBVhC3gQi0Nm3r9c9Rsn2gLtxUFAmsFsp8ACgkQc9Rsn2gL
+txUuQg//f0RkcQRE0c/lJrDHSOhj3AkETbnMMXpycT5zsIvI5C5+4ILZt/wIqFpS
+ukc6tQUaDKMUbQLjLQTxwmgeiAmLkpcWUN4QvdguAslNHtwvxjiIN6HnFYfWRxFZ
+mNmfbreaNMkk1iQW4g5EMfUT8S8HdGvQkXGemtS6K7Fcz6syh3d7yh/GqDWA9qiM
+I7dSiMIwISEYJtj65elHXx8P6hLjoKad6J/1l5nc1AxDeNjldkFqOv7YrAOGy75l
+h6Bj1AZgf4JN15XPqXpAOVJW53KFepvpIYkUYMz5T8cACufp3GWlBq+8W89AoepJ
+IY0XpRKrb+8LEOPkHbHhJRkNnZMgbyinxbpYraa8/qQnXMUmlyMNWLkEf1/Emu8K
+ojCMaNdfP9K5CY/8jWAebwxOrD3PXxvhto+Lyn/fWlEBnV+eidsFsqsvFr5miG7+
+WH7szqSRWZ8pKBQdx5AUr/JcLQ4YZXvErq2bOoC51Q2xtQaX/AARqA23MxFbWMqm
+vwoCAsJeiSt9tirM7jUxbVuX3eI2KUhzLAQ7JZbGf2bndanoJkUaNf9yHH7Rr0SX
+8gAGvgvug/WHtbCXA8TdChzy/CuzRt9IYx+bgC1NvoPlkVDmgkFYTmr8EsDKX/A5
+jOuomjDMMw3bkdKN8ehhr6ioWn17P+vkqYjMX4PQQfnNjahhUcU=
+=lPTo
 -----END PGP SIGNATURE-----

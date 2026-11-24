@@ -143,3 +143,28 @@ Description: The FellowshipOS desktop
  control tool, the notification service, and the xdg-desktop-portal Settings
  backend, with the shared themes and session starter.
 
+Package: fellowship-desktop
+Version: 0.5.1
+Architecture: amd64
+Maintainer: Chris <chris@fellowshipos.invalid>
+Installed-Size: 267244
+Depends: libgbm1, libinput10, libseat1, libudev1, libxkbcommon0, xkb-data, kbd,
+ libwayland-client0, libwayland-server0, libwayland-egl1, libegl1,
+ libegl-mesa0, libgl1-mesa-dri, fonts-dejavu-core, dbus,
+ xdg-desktop-portal, xdg-desktop-portal-gtk, libglib2.0-0t64, libglib2.0-bin, file,
+ pipewire, pipewire-pulse, pipewire-alsa, wireplumber, libspa-0.2-bluetooth, greetd, cage, accountsservice,
+ pkexec, polkitd, iproute2, packagekit, appstream, apt-config-icons, curl, ca-certificates,
+ gstreamer1.0-tools, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good
+Filename: pool/main/f/fellowship-desktop/fellowship-desktop_0.5.1_amd64.deb
+Size: 59748864
+MD5sum: 5a6210ea35561340ec2554c8d4785573
+SHA1: 749d17eda9394855bb689e4cb9eb3fc8d809a02a
+SHA256: 7d81c144d2c0aa69aef167a5991a84c5fd40242cabb24aaef28a24226da5e99f
+Section: x11
+Priority: optional
+Description: The FellowshipOS desktop
+ The Wayland compositor, the shell (top bar, dock, launcher), the
+ Fellowship graphical greeter and appearance service, the fellowship-msg
+ control tool, the notification service, and the xdg-desktop-portal Settings
+ backend, with the shared themes and session starter.
+
