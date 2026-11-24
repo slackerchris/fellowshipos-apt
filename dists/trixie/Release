@@ -2,17 +2,17 @@ Origin: FellowshipOS
 Label: FellowshipOS
 Suite: trixie
 Codename: trixie
-Version: 0.4.10
-Date: Tue, 24 Nov 2026 01:36:47 GMT
+Version: 0.5.0
+Date: Tue, 24 Nov 2026 15:09:34 GMT
 Architectures: amd64
 Components: main
 Description: FellowshipOS Desktop updates for Debian trixie
 MD5Sum:
- ae04f0383bea0d21cd86fa31d056e3b9             5610 main/binary-amd64/Packages
- 0a5612f20802609148b627889067f8f1             1196 main/binary-amd64/Packages.gz
+ 2ea8be53e9041ecea84e3dc61eca34f3             6846 main/binary-amd64/Packages
+ f073ea450d85d7121454ae1c4d1e5f3d             1355 main/binary-amd64/Packages.gz
 SHA256:
- b38d518119d592f2bd98613555915d03e0c7a76e3c0daa46d48d95fa34758cb9             5610 main/binary-amd64/Packages
- 56c09d3a5ed9fe7563468724237bbc63cec9572d4ba4a4c73401786d06735667             1196 main/binary-amd64/Packages.gz
+ 53a8fcb9eb568c1084c4c594b99e6b9df6318805c1aa091a12ccdedc1602a10e             6846 main/binary-amd64/Packages
+ a668741b0011f20768cf5233903e71aef9fafe532ca6c9742902f39e20d8feed             1355 main/binary-amd64/Packages.gz
 SHA512:
- 26bce6ff6336ab5a58ce3f17027a05972fa8f6963af5cb87558cf9c200b1f282b5a3a37c0066a26e1fd0bada99c40e5666ddf31d941dae9ed98c85cac35d4686             5610 main/binary-amd64/Packages
- a09609108f2de414aac7c2f29a339cb8ebe3a91af4c2d3f04c5148808ee4018ce8067ac6a70bbf7b1b24ab94585be1fa6f1d4855c7c5493a0aff27c5deb3bed6             1196 main/binary-amd64/Packages.gz
+ 8dbe05f3e0bf72ebe0135e983ee0d4fd0638c6b256c017729258cc1163d962727b2cd1e2aae448487c79a9edd0c9cac9b8958ce161a723dca53f6b76f29f10e3             6846 main/binary-amd64/Packages
+ 0931646f78d2cb30b7b28d23bbd98251be1fc96095c4a7acbe489c86e8d3e40bef32be25b87ceb1733675848aa59ed02a9c3d651608a699bc1119488abbb6709             1355 main/binary-amd64/Packages.gz
